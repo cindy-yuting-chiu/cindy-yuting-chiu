@@ -4,7 +4,7 @@
 - 📚 I'm a Master Candidate in Data Science at Duke University
 - 📍 Based in North Carolina, USA. 
 - 👨‍💻 I’m currently working on machine learning projects using python.
--  I worked as a Business Intelligence Engineer at Amazon. SQL and Excel were my best friends.
+- 📈 I worked as a Business Intelligence Engineer at Amazon. SQL and Excel were my best friends.
 - 💪🏼 Future Goals: Keep up with the new technologies
 
 
